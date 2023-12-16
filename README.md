@@ -29,4 +29,4 @@ Moreno has assigned me the first question as Data Analyst to answer: **How do an
 
 **Tools:** <br>
 - Data cleaning & processing - SQL on Google Big Query & Spreadsheets (.CSV)
-- Data visualization - [Tableau](https://public.tableau.com/app/profile/saad.khan6444/viz/CyclisticBikeShare_17016300215350/cyclisticbikesharedashboard)
+- Data visualization - [Tableau](https://public.tableau.com/app/profile/saad.khan6444/viz/CyclisticBikeShare_17016300215350/Totaltripsvsdays)
