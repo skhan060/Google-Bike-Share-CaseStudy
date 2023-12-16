@@ -52,12 +52,6 @@ FROM `my-cyclistic-da.cyclistic_202208_202307.cyclistic_data_Aug2022_to_Dec2022`
 GROUP BY end_station_name;
 -- a total of 382583 end_station_name with null values are found 
 
-SELECT DISTINCT start_station_id, end_station_id
-FROM `my-cyclistic-da.cyclistic_202208_202307.cyclistic_data_Aug2022_to_Dec2022`
-WHERE start_station_id IS NOT NULL OR
-end_station_id IS NOT NULL;
--- null values observed 
--- the string lengths of station id are inconsistent. however, it will be ignored as the station id is not important in our analysis
 
 -- 5) lat & lng of start and end
 SELECT * 
