@@ -30,3 +30,39 @@ Moreno has assigned me the first question to you as a Data Analyst to answer: **
 **Tools:** <br>
 - Data cleaning & processing - SQL on Google Big Query & Spreadsheets (.CSV)
 - Data visualization - [Tableau](https://public.tableau.com/app/profile/saad.khan6444/viz/CyclisticBikeShare_17016300215350/Totaltripsvsdays)
+
+### 3. Process
+The basis for this analysis is **2022** data and the steps for processing the data are as follow:
+1) [Data Combining](https://github.com/skhan060/Google-Bike-Share-CaseStudy/blob/main/01_Data_Combining.sql)
+2) [Data Exploration](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/02_Data_Exploration.sql)
+3) [Data Cleaning](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/03_Data_Cleaning.sql)
+4) [Data Analysis](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/04_Data_Analysis)
+
+#### Data Combining
+The 12 tables from **January 2022 to December 2022** were stacked and combined into a single table. The table consists of 5,667,717 rows.
+
+#### Data Exploration
+I ran the queries for each column from left to right in order to determine the **data type** and to uncover any **missing values, outliers, inconsistencies, and errors** within the dataset. 
+
+The data set consists of **13 variables**, as shown in the following: <br>
+
+| **No.**|  **Variable**       |  **Description**                                        |
+|--------|------------------   | --------------------------------------------------------|
+| 1      | ride_id             | Unique ID assigned to each ride                         |
+| 2      | rideable_type       | classic, docked, or electric                            |
+| 3      | started_at          | Date and time at the start of trip                      |
+| 4      | ended_at            | Date and time at the end of trip                        |
+| 5      | start_station_name  | Name of the station where the ride journey started from |
+| 6      | start_station_id    | ID of the station where the ride journey started from   |
+| 7      | end_station_name    | Name of the station where the ride trip ended at        |
+| 8      | end_station_id      | ID of the station where the ride trip ended at          |
+| 9      | start_lat           | Latitude of starting station                            |
+| 10     | start_lng           | Longitude of starting station                           |
+| 11     | end_lat             | Latitude of ending station                              |
+| 12     | end_lng             | Longitude of ending station                             |                            
+| 13     | member_casual       | Type of membership of each rider                        |
+
+and the **data type** of each variable is depicted below:
+
+<img width="352" alt="DataType" src="https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/assets/101321188/3f2e5e1d-b18e-4c9b-92e8-c6e35ce8ae12">
+
