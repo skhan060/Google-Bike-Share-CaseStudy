@@ -132,18 +132,31 @@ The mean ride duration across the week is displayed as follow.
 - On the other hand, **casual riders cycled the longest on Sunday** with a mean trip duration of 25.11 minutes.
 
 ### 5. Share
-![Cyclistic Bike Share Dashboard]((https://github.com/skhan060/Google-Bike-Share-CaseStudy/assets/153567661/881cc21c-c574-4729-9a1c-9b24ac943ac0)
+![Cyclistic Bike Share Dashboard](https://github.com/skhan060/Google-Bike-Share-CaseStudy/assets/153567661/881cc21c-c574-4729-9a1c-9b24ac943ac0)
 View [Cyclistic Bike Share Dashboard](https://public.tableau.com/app/profile/saad.khan6444/viz/CyclisticBikeShare_17016300215350/Totaltripsvsmonths#1).
 
-The similiarities and differences between Cyclistic members and casual riders were drawn from the dashboard above.
+### 6. Act
+#### <ins>Recommendations</ins>
+From the analysis above, we can design certain marketing strategies to convert casual riders to Cyclistic members. Here are some suggestions:
+
+- **Variety of Memberships** <br>
+Provide a range of memberships: yearly, monthly and daily. For example, $300/year, $50/month, $3/day. Users will be able to choose their membership type according to their own preferences. By introducing shorter-term membership plans with appropriate pricing, we can cater the needs of riders who might not need an annual membership.
+
+- **Membership Loyalty Points System** <br>
+A loyalty point system will provide incentives to bike riders who use the service for leisurely activities. The incentive could range from free rides to unlocking discounted membership to free mechandises. In essence, more the person uses the service the higher the point collection leading to better incentives.
+
+- **Seasonal campaigns** <br>
+Launch seasonal campaigns by offering limited-time discounts, special weekdays or weekend offers.
+
+## Conclusion
+The analysis from months August to September of year 2022 provide key insights regarding trends related to usage. Furthermore, below are the similiarities and differences between Cyclistic members and casual riders were drawn from the dashboard above.
 
 **Similarities:**
-- Both Cyclistic members and casual riders **prefer riding bicycles in the spring and summer seasons** (from May to September). However, the number of rides decrease since September. This may be due to change of season in which the weather temperature drops and becomes uncomfortable for rides. 
+- Both Cyclistic members and casual riders **summer season** (in August). However, the number of rides decrease starting September. This is due to change of season and related temprature drops. 
 - Both Cyclistic members and casual riders **prefer classic bicycles over electric bicycles**. 
 - Both Cyclistic members and casual riders have **higher average ride duration on weekends as compared to on weekdays**.
 
 **Differences:**
 - **Cyclistic members** go on **more rides** than casual riders.
-- **Cyclistic members** have **smaller average ride length** (12.41 minutes) than casual riders (23.82 minutes). Hence, this may suggest that the Cyclistic members take the bicycles for **short trips or short distance travel**. 
+- **Cyclistic members** have **smaller average ride length** than casual riders. Hence, this may suggest that the Cyclistic members take the bicycles for **short trips or short distance travel**. 
 - **Cyclistic members** show **consistent rides** throughout the week while casual riders have the busiest activites on weekends and lowest activities during weekdays. This may indicate that the Cyclistic members use the bicycles for ***purpose-oriented rides** such as work or errands while the casual riders use bicycles for leisure or recreational activities.
-
