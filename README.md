@@ -34,9 +34,9 @@ Moreno has assigned me the first question to you as a Data Analyst to answer: **
 ### 3. Process
 The basis for this analysis is **2022** data and the steps for processing the data are as follow:
 1) [Data Combining](https://github.com/skhan060/Google-Bike-Share-CaseStudy/blob/main/01_Data_Combining.sql)
-2) [Data Exploration](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/02_Data_Exploration.sql)
-3) [Data Cleaning](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/03_Data_Cleaning.sql)
-4) [Data Analysis](https://github.com/minbean/Google-Data-Analytics-Capstone-Project-Cyclistic-Case-Study/blob/main/04_Data_Analysis)
+2) [Data Exploration](https://github.com/skhan060/Google-Bike-Share-CaseStudy/blob/main/02_Data_Exploration.sql)
+3) [Data Cleaning](https://github.com/skhan060/Google-Bike-Share-CaseStudy/blob/main/03_Data_Cleaning.sql)
+4) [Data Analysis](https://github.com/skhan060/Google-Bike-Share-CaseStudy/blob/main/04_Data_Analysis.sql)
 
 #### Data Combining
 The 12 tables from **January 2022 to December 2022** were stacked and combined into a single table. The table consists of 5,667,717 rows.
